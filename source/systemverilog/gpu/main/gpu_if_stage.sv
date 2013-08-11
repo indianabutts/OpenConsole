@@ -1,4 +1,4 @@
-module gpu_if(
+module gpu_if_stage(
 	      );
 
 
